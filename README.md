@@ -1,7 +1,8 @@
 # Tic Tac Toe ⭐ con React.js ❄
 
 _Aplicación para dos jugadores, donde para empezar una partida deben ingresar sus nombres.
-Para casi la mayoría de las funciones del juego como el tablero e ingreso utilicé el hooks ⚓ useState_
+Para casi la mayoría de las funciones del juego como el tablero e ingreso utilicé el hooks ⚓ useState.
+Entra en la carpeta ejercicio📁 y comienza a ver el proyecto_
 
 
 
